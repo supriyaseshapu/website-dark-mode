@@ -1,0 +1,27 @@
+/* Default styles */
+body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 50px;
+    text-align: right;
+    
+    
+}
+
+/* Dark mode styles */
+.dark-mode {
+    background-color: #1a1a1a;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
